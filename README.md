@@ -9,3 +9,11 @@ Status: Undetected
 Price: $185 ($40+ For setup)
 
 If drivers get the detected I will update it for you for **FREE**
+
+Recommended Games for my driver support:
+
+Rainbow 6
+Fortnite
+EFT (Escape From Tarkov)
+Rust
+Valorant ( Testing )
